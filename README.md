@@ -1,4 +1,4 @@
-# SampleCrud CleanArchitecture
+# SampleCrud with CleanArchitecture
 This is a simple crud implementation with clean architecture;
 
 ## Architecture And Design Patterns Which Have Been Used :

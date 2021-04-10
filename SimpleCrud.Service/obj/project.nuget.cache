@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2JBQVCoElEzKpMMbhl/Ij7j/y6ZGQfCt1eTPTXAS2qOKeUgznqsTjzUTbLfS+wxCI8HNYEgxhzn/O2kt/jqvQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\SampleCrud-CleanArchitecture\\SimpleCrud.Service\\SimpleCrud.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haghjou\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
